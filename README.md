@@ -1,8 +1,8 @@
-[node.json](https://github.com/adbrasi/ComfyUI-TrashNodes-DownloadHuggingface/files/14214734/node.json)# ComfyUI-TrashNodes-DownloadHuggingface
+# ComfyUI-TrashNodes-DownloadHuggingface
 # Description - what does this shit do?
 ComfyUI-TrashNodes-DownloadHuggingface is a ComfyUI node designed to facilitate the download of models you have just trained and uploaded to Hugging Face. This node is particularly useful for users who employ Google Colab for training and need to quickly download their models for deployment.
 
-to use it perfectly, use the node of this workflow: 
+to use it perfectly, use the node of this workflow: [node.json](https://github.com/adbrasi/ComfyUI-TrashNodes-DownloadHuggingface/files/14214734/node.json)
 
 
 Features
